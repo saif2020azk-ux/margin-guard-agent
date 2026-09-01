@@ -1,0 +1,105 @@
+{
+  "SKU-DESK-01|SKU-WEBCAM-01": {
+    "sku": "SKU-LAMP-01",
+    "discount_paise": 34900,
+    "pitch": "This desk lamp provides proper front lighting to improve video quality on your new webcam while adding convenient wireless phone charging to your desk setup."
+  },
+  "SKU-STAND-01|SKU-WEBCAM-01": {
+    "sku": "SKU-HUB-USBC",
+    "discount_paise": 0,
+    "pitch": "A USB-C hub allows you to easily connect your webcam and other peripherals to your laptop while it is elevated on the stand."
+  },
+  "SKU-KB-MECH": {
+    "sku": "SKU-PAD-XL",
+    "discount_paise": 0,
+    "pitch": "This desk mat provides a cushioned surface that dampens typing noise and keeps your mechanical keyboard firmly in place."
+  },
+  "SKU-KB-MECH|SKU-MOUSE-01": {
+    "sku": "SKU-PAD-XL",
+    "discount_paise": 8900,
+    "pitch": "The XL Desk Mat provides a smooth, padded surface to comfortably accommodate both your new keyboard and ergonomic mouse."
+  },
+  "SKU-STAND-01": {
+    "sku": "SKU-KB-MECH",
+    "discount_paise": 64900,
+    "pitch": "An external mechanical keyboard allows you to type comfortably at desk level while your laptop screen is elevated on the stand."
+  },
+  "SKU-CABLE-C|SKU-CHAIR-01": {
+    "sku": "SKU-FOOTREST",
+    "discount_paise": 19900,
+    "pitch": "The adjustable footrest pairs with your ergonomic chair to support proper posture and reduce leg pressure during long work sessions."
+  },
+  "SKU-DESK-01|SKU-HEADSET": {
+    "sku": "SKU-CHAIR-01",
+    "discount_paise": 124900,
+    "pitch": "An ergonomic mesh chair enables you to comfortably switch between sitting and standing throughout your workday."
+  },
+  "SKU-MOUSE-01": {
+    "sku": "SKU-PAD-XL",
+    "discount_paise": 8900,
+    "pitch": "This XL desk mat provides a smooth, uniform surface for optimal optical mouse tracking while protecting your workspace."
+  },
+  "SKU-CABLE-C|SKU-DESK-01|SKU-MOUSE-01": {
+    "sku": "SKU-PAD-XL",
+    "discount_paise": 8900,
+    "pitch": "The XL Desk Mat protects your new standing desk surface while providing a smooth, smooth tracking area for your ergonomic mouse."
+  },
+  "SKU-HEADSET": {
+    "sku": "SKU-WEBCAM-01",
+    "discount_paise": 44900,
+    "pitch": "Pair your noise-cancelling headset with a 1080p webcam to complete your online meeting setup."
+  },
+  "SKU-CABLE-C|SKU-WEBCAM-01": {
+    "sku": "SKU-HEADSET",
+    "discount_paise": 0,
+    "pitch": "A noise-cancelling headset completes your video conferencing setup by providing clear audio and background noise reduction during calls."
+  },
+  "SKU-CHAIR-01|SKU-MOUSE-01|SKU-WEBCAM-01": {
+    "sku": "SKU-PAD-XL",
+    "discount_paise": 8900,
+    "pitch": "This XL desk mat provides a smooth tracking surface for your new ergonomic mouse while protecting your desktop surface."
+  },
+  "SKU-FOOTREST|SKU-STAND-01": {
+    "sku": "SKU-MOUSE-01",
+    "discount_paise": 0,
+    "pitch": "An ergonomic wireless mouse allows you to navigate comfortably at desk level while your laptop is elevated on the stand."
+  },
+  "SKU-LAMP-01|SKU-STAND-01": {
+    "sku": "SKU-HUB-USBC",
+    "discount_paise": 39900,
+    "pitch": "This 7-in-1 USB-C hub allows you to connect power, displays, and peripherals to your elevated laptop using a single cable."
+  },
+  "SKU-MON-27": {
+    "sku": "SKU-WEBCAM-01",
+    "discount_paise": 0,
+    "pitch": "This 1080p webcam mounts onto your new monitor to add clear video call functionality to your desktop setup."
+  },
+  "SKU-HUB-USBC": {
+    "sku": "SKU-STAND-01",
+    "discount_paise": 0,
+    "pitch": "This laptop stand elevates your screen to eye level while keeping your desk organized alongside your USB-C hub."
+  },
+  "SKU-CHAIR-01|SKU-DESK-01": {
+    "sku": "SKU-PAD-XL",
+    "discount_paise": 8900,
+    "pitch": "This XL desk mat protects your new standing desk surface while providing a smooth, comfortable area for your workspace accessories."
+  },
+  "SKU-MON-27|SKU-MOUSE-01|SKU-STAND-01": {
+    "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 25.273934391s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '25s'}]}}"
+  },
+  "SKU-CABLE-C|SKU-FOOTREST|SKU-STAND-01": {
+    "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 18.071780754s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '18s'}]}}"
+  },
+  "SKU-PAD-XL": {
+    "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 10.901863241s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}"
+  },
+  "SKU-WEBCAM-01": {
+    "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 3.42356658s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}}"
+  },
+  "SKU-HUB-USBC|SKU-STAND-01": {
+    "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 55.943954068s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}"
+  },
+  "SKU-CABLE-C|SKU-CHAIR-01|SKU-LAMP-01": {
+    "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 48.431873897s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}"
+  }
+}
