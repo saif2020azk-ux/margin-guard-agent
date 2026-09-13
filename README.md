@@ -3,8 +3,7 @@
 An AI upsell agent for Razorpay merchants, built so that the language model
 proposes and deterministic code decides.
 
-Submitted to the Razorpay AI Buildathon, Track 01 (AI Growth & Agentic
-Commerce).
+
 
 ---
 
