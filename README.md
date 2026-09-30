@@ -1,7 +1,7 @@
 # margin-guard-agent
 
 An AI upsell agent for Razorpay merchants, built so that the language model
-proposes and deterministic code decides.
+proposes and deterministic code decides..
 
 
 
